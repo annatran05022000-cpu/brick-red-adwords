@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Brick Red AdWords"
 date: 2026-06-01
 description: "Google Ads and PPC guides for small businesses: campaign setup, bidding, and conversion optimization."
